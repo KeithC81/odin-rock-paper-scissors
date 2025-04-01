@@ -6,8 +6,14 @@
 
 
 (Describe the problem you are solving in a few sentences.)**
+	 Meed a function that generates a random number for the computer which has the value 
+	 assigned to them as  rock,  paper and scissors.
+	 With another function that allows a user to pick either rock, paper, or scissors.
+	
 
+ Last, a function that takes the user and computer choices and displays the results to the screen.
 
+	
 
 
 **Inputs:
@@ -29,16 +35,36 @@
 
 
 
-                                        **Steps to Solve:**
+               **Steps to Solve:**
+
+								**(Step 1 - Explain what needs to happen first)**
+
+									store a computer choice variable with a random number. 1 = rock 2 = paper, 3 = sciccors
+											
+
+												
 
 
-											**(Step 1 - Explain what needs to happen first)**
+								**(Step 2 - Next logical step in the process)**
+
+									store a user choice variable with the same with rock = 1, paper = 2 and scissors as 3.
 
 
-											**(Step 2 - Next logical step in the process)**
 
 
-											**(Continue listing steps logically until the process is complete)**
+								**(Step 3)**
+
+									Get results from comparing the user choice and computer choice
+
+
+
+
+								**(step 4)**
+
+									return the results to the display with you win or you lose
+
+
+								**(Continue listing steps logically until the process is complete)**
 
 
 
