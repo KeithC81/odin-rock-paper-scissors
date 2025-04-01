@@ -1,0 +1,60 @@
+# **Algorithm Planning Template**
+
+
+
+**Problem Statement:
+
+
+(Describe the problem you are solving in a few sentences.)**
+
+
+
+
+**Inputs:
+
+
+(List the data the function will receive as input.)**
+
+
+
+
+
+**Outputs:
+
+
+(Describe what the function should return or display.)**
+
+
+
+
+
+
+                                        **Steps to Solve:**
+
+
+											**(Step 1 - Explain what needs to happen first)**
+
+
+											**(Step 2 - Next logical step in the process)**
+
+
+											**(Continue listing steps logically until the process is complete)**
+
+
+
+
+
+**Edge Cases to Consider**
+
+
+
+(List possible scenarios where the function may not behave as expected and how to handle them.)**:
+
+
+
+**Potential Optimizations:
+
+
+
+(Any ways to make the algorithm more efficient, if applicable.)**
+
