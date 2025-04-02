@@ -1,4 +1,19 @@
 body {
     background-color: floralwhite;
     max-width: 100%;
+    box-sizing: border-box;
+}
+.btn-container {
+    max-width: 100%;
+    height: auto;
+    text-align: center;
+}
+.choices-container {
+    display: flex;
+    justify-content: space-evenly;
+    gap: 2rem;
+
+}
+.results-container {
+    text-align: center;
 }

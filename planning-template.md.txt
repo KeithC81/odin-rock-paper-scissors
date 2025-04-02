@@ -11,7 +11,9 @@
 	 With another function that allows a user to pick either rock, paper, or scissors.
 	
 
- Last, a function that takes the user and computer choices and displays the results to the screen.
+ 	 a function that takes the user and computer choices and displays the results to the screen.
+
+	 loop the previous functions until a player reaches 5 wins to complete the game
 
 	
 
@@ -30,7 +32,8 @@
 
 (Describe what the function should return or display.)**
 
-
+	Return user and computer choices to screen, with win lose or draw and keep track
+	of the score until a player wins five rounds. Return a win or lose message
 
 
 
@@ -63,6 +66,24 @@
 
 									return the results to the display with you win or you lose
 
+
+								**(step 5)**
+
+									if user results is equal to win, display wins total + 1,
+
+
+							    **(step 6)**
+
+									if user results is equal to draw, continue on
+
+								**(step 7)**
+
+									if computer results = win, display losses +1
+
+								
+								**(step 8)**
+
+									Loop unitl either score is equal to 5, return win or lose message
 
 								**(Continue listing steps logically until the process is complete)**
 
